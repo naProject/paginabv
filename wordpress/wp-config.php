@@ -37,6 +37,10 @@ define('DB_COLLATE', '');
 /** next line is to enable jetpack in localhost*/
 define( 'JETPACK_DEV_DEBUG', true);
 
+define('FTP_HOST', 'localhost');
+define('FTP_USER', 'nobody');
+define('FTP_PASS', '2TgxE8g184G9c');
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
