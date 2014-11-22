@@ -30,7 +30,7 @@ body {background-color:#f2efef;}
 
 embed, iframe, object, video {max-width: 100%;}
 
-body #header.sticky-header{background:rgba(242,242,242,0.97) !important;margin:0;position:fixed;top:0;left:0;z-index:99998;display:none;padding:0;width:100%;
+body #header.sticky-header{background:rgba(242,242,242,0.97);margin:0;position:fixed;top:0;left:0;z-index:99998;display:none;padding:0;width:100%;
 	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
 	-moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
 	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
